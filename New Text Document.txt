@@ -1,0 +1,6 @@
+Proper search authority: Investigators cannot commence without the proper legal authority.
+Chain of custody: This is necessary to keep track of who was holding the evidence at any time.
+Validation with mathematics: Using a special kind of mathematical function, called a hash function, we can confirm that a file has not been modified.
+Use of validated tools: The tools used in digital forensics should be validated to ensure that they work correctly. For example, if you are creating an image of a disk, you want to ensure that the forensic image is identical to the data on the disk.
+Repeatability: The findings of digital forensics can be reproduced as long as the proper skills and tools are available.
+Reporting: The digital forensics investigation is concluded with a report that shows the evidence related to the case that was discovered.

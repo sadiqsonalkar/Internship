@@ -1,0 +1,10 @@
+https://github.com/sushiwushi/bug-bounty-dorks/blob/master/dorks.txt
+
+https://mobsf.github.io/docs/#/mobsf_docker
+
+https://github.com/nelenkov/android-backup-extractor/releases
+
+
+
+
+asif@the-cyberhost.tech

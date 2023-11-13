@@ -1,0 +1,16 @@
+- Insecure Cryptographic Storage - Internal Storage
+
+-adb shell 
+-cd /data/data/ 
+-cd package_name 
+- ls 
+-cd tmp 
+-cat file_name
+
+-Insecure Cryptographic Storage - Shared Preferences
+
+- adb shell 
+- cd /data/data/
+- cd package_name - ls
+- cd shared_prefs -ls
+- cat file_name
